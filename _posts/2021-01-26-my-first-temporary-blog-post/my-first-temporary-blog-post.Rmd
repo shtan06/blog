@@ -1,0 +1,27 @@
+---
+title: "My First Temporary Blog Post"
+description: |
+  A short description of the post.
+author:
+  - name: Stan
+    url: https://example.com/norajones
+date: 01-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - Fun
+  - Religion
+preview: pexels-pixabay-158771.jpg
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+![Image](pexels-pixabay-158771.jpg)

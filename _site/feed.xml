@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>by the numbers</title>
+    <link>https://middle-office.netlify.app</link>
+    <atom:link href="https://middle-office.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>by the numbers
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Test Again</title>
+      <dc:creator>User</dc:creator>
+      <link>https://middle-office.netlify.app/feed/2021-01-26-test-again</link>
+      <description>A short description of the post.</description>
+      <category>Bonds</category>
+      <category>Finance</category>
+      <guid>https://middle-office.netlify.app/feed/2021-01-26-test-again</guid>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

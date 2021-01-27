@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>by the numbers</title>
+    <link>https://middle-office.netlify.app</link>
+    <atom:link href="https://middle-office.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>by the numbers
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>My First Temporary Blog Post</title>
+      <dc:creator>Stan</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2021-01-26-my-first-temporary-blog-post</link>
+      <description>A short description of the post.</description>
+      <category>Fun</category>
+      <category>Religion</category>
+      <guid>https://middle-office.netlify.app/posts/2021-01-26-my-first-temporary-blog-post</guid>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://middle-office.netlify.app/posts/2021-01-26-my-first-temporary-blog-post/pexels-pixabay-158771.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Welcome to BugByte</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://middle-office.netlify.app/posts/welcome</link>
+      <description>Welcome to our new blog, BugByte. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://middle-office.netlify.app/posts/welcome</guid>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
