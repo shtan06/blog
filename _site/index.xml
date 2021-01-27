@@ -7,7 +7,19 @@
     <description>by the numbers
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Test number 2</title>
+      <dc:creator>Stan</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2021-01-28-test-number-2</link>
+      <description>A short description of the post.</description>
+      <category>Investment</category>
+      <category>Finance</category>
+      <category>Fun</category>
+      <guid>https://middle-office.netlify.app/posts/2021-01-28-test-number-2</guid>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://middle-office.netlify.app/posts/2021-01-28-test-number-2/pexels-pixabay-262367.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>My First Temporary Blog Post</title>
       <dc:creator>Stan</dc:creator>

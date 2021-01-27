@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2021-01-28-test-number-2/",
+    "title": "Test number 2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Stan",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-01-28",
+    "categories": [
+      "Investment",
+      "Finance",
+      "Fun"
+    ],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": "posts/2021-01-28-test-number-2/pexels-pixabay-262367.jpg",
+    "last_modified": "2021-01-28T05:12:24+08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-01-26-my-first-temporary-blog-post/",
     "title": "My First Temporary Blog Post",
     "description": "A short description of the post.",

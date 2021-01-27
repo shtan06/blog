@@ -5,21 +5,21 @@
       "title": "About This Blog",
       "author": [],
       "contents": "\nAbout Me\nI am an aspiring entrepreneur, having been involved in a tech start-up, consultancy and oil & gas industry since 2017. I spend my time exploring investment data and operational efficiency in the fund management industry. I am currently working on a project to connect participants in the OTC markets.\nWhat do I write about\n\n\n\n",
-      "last_modified": "2021-01-28T05:04:02+08:00"
+      "last_modified": "2021-01-28T05:12:43+08:00"
     },
     {
       "path": "feed.html",
       "title": "feed",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-28T05:04:03+08:00"
+      "last_modified": "2021-01-28T05:12:44+08:00"
     },
     {
       "path": "index.html",
       "title": "Investment Technology Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-28T05:04:04+08:00"
+      "last_modified": "2021-01-28T05:12:45+08:00"
     }
   ],
   "collections": ["posts/posts.json", "feed/feed.json"]

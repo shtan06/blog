@@ -7,5 +7,6 @@
 *.Rproj
 *.jpg
 *.yml
+*.txt
 /_feed
 /_posts
