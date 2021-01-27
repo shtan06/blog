@@ -2,7 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-theme.css
-.Rmd
-.Rproj
-pexels-pixabay-268819.jpg
+*.css
+*.Rmd
+*.Rproj
+*.jpg
+*.yml
+/_feed
+/_posts

@@ -1,5 +1,0 @@
----
-title: "Investment Technology Blog"
-site: distill::distill_website
-listing: posts
----
