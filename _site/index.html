@@ -86,26 +86,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>by the numbers: Investment Technology Blog</title>
+  <title>think blog: think|Data</title>
 
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="by the numbers: Investment Technology Blog"/>
+  <meta property="og:title" content="think blog: think|Data"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="by the numbers"/>
+  <meta property="og:site_name" content="think blog"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="by the numbers: Investment Technology Blog"/>
+  <meta property="twitter:title" content="think blog: think|Data"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Investment Technology Blog"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["think|Data"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2124,22 +2124,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   html {
     /*-- Main font sizes --*/
-    --title-size:      35px;
-    --body-size:       1.06rem;
+    --title-size:      40px;
+    --body-size:       1.18rem; /*text size of blog contents*/
     --code-size:       14px;
     --aside-size:      12px;
     --fig-cap-size:    13px;
     /*-- Main font colors --*/
-    --title-color:     rgba(92, 92, 92); /*#000000;*/
-    --header-color:    rgba(43, 97, 122);
-    --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(0, 0, 0, 0.6);
-    --fig-cap-color:   rgba(0, 0, 0, 0.6);
+    --title-color:     rgba(0, 0, 0, 0.8); /*#000000;*/
+    --header-color:    rgba(0, 0, 0, 0.9); /*title colour in listings;*/
+    --body-color:      rgba(0, 0, 0); /*text colour of blog contents*/
+    --aside-color:     rgba(0, 0, 0);
+    --fig-cap-color:   rgba(0, 0, 0); 
     /*-- Specify custom fonts ~~~ must be imported above   --*/
     --heading-font:    sans-serif;
     --mono-font:       monospace;
     --body-font:       sans-serif;
-    --navbar-font:     sans-serif;  /* websites + blogs only */
+    --navbar-font:     tahoma;  /* websites + blogs only */
   }
 
   /*-- ARTICLE METADATA --*/
@@ -2152,7 +2152,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
   .d-contents {
-    --heading-size:    18px;
+    --heading-size:    18px;/* */
     --contents-size:   13px;
   }
 
@@ -2168,18 +2168,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /* These properties only apply to Distill sites and blogs  */
 
   .distill-site-header {
-    --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
+    --title-size:       15px;
+    --text-color:       rgba(255,255,255);
+    --text-size:        13px;
     --hover-color:      white;
-    --bkgd-color:       rgba(43, 97, 122)/*#0F2E3D*/;
+    --bkgd-color:       rgba(62, 63, 58)/*#0F2E3D*/;
   }
 
   .distill-site-footer {
     --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
+    --text-size:        13px;
     --hover-color:      white;
-    --bkgd-color:       rgba(43, 97, 122)/*#0F2E3D*/;
+    --bkgd-color:       rgba(62, 63, 58)/*#0F2E3D*/;
   }
 
   /*-- Additional custom styles --*/
@@ -2360,7 +2360,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Investment Technology Blog","authors":[]}
+{"title":"think|Data","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2368,14 +2368,23 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a href="index.html" class="title">by the numbers</a>
+<a href="index.html" class="title">think blog</a>
 <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
 <div class="nav-right">
-<a href="index.html">Home</a>
-<a href="feed.html">Analysis</a>
-<a href="about.html">About</a>
-<a href="https://shtan06.github.io/mozibite/index.html">mozibite</a>
+<a href="index.html">HOME</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+ABOUT
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="https://middle-office-about.netlify.app">THIS BLOG SITE</a>
+<a href="myprofile/myprofile.html">MY PROFILE</a>
+</div>
+</div>
+<a href="resources.html">RESOURCES</a>
 <a href="https://linkedin.com/in/shtan06">
 <i class="fa fa-linkedin" aria-hidden="true"></i>
 </a>
@@ -2387,9 +2396,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </a>
 <a href="mailto:shtan06@gmail.com">
 <i class="fa fa-envelope" aria-hidden="true"></i>
-</a>
-<a href="index.xml">
-<i class="fa fa-rss" aria-hidden="true"></i>
 </a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
@@ -2532,72 +2538,165 @@ function init_posts_list() {
 
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
-<h1 class="posts-list-caption" data-caption="Investment Technology Blog">Investment Technology Blog</h1>
-<a href="posts/2021-01-28-test-number-2/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Investment","Finance","Fun"]}</script>
+<h1 class="posts-list-caption" data-caption="think|Data">think|Data</h1>
+<a href="posts/2020-11-25 R Source Code for Bond Analysis/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Bonds"]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 28, 2021</div>
+<div class="publishedDate">Nov. 25, 2020</div>
 <div class="dt-authors">
-<div class="dt-author">Stan</div>
-</div>
-</div>
-<div class="thumbnail">
-<img src="posts/2021-01-28-test-number-2/pexels-pixabay-262367.jpg"/>
-</div>
-<div class="description">
-<h2>Test number 2</h2>
-<div class="dt-tags">
-<div class="dt-tag">Investment</div>
-<div class="dt-tag">Finance</div>
-<div class="dt-tag">Fun</div>
-</div>
-<p>A short description of the post.</p>
-</div>
-</a>
-<a href="posts/2021-01-26-my-first-temporary-blog-post/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":["Fun","Religion"]}</script>
-<div class="metadata">
-<div class="publishedDate">Jan. 26, 2021</div>
-<div class="dt-authors">
-<div class="dt-author">Stan</div>
-</div>
-</div>
-<div class="thumbnail">
-<img src="posts/2021-01-26-my-first-temporary-blog-post/pexels-pixabay-158771.jpg"/>
-</div>
-<div class="description">
-<h2>My First Temporary Blog Post</h2>
-<div class="dt-tags">
-<div class="dt-tag">Fun</div>
-<div class="dt-tag">Religion</div>
-</div>
-<p>A short description of the post.</p>
-</div>
-</a>
-<a href="posts/welcome/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
-<div class="metadata">
-<div class="publishedDate">Jan. 26, 2021</div>
-<div class="dt-authors">
-<div class="dt-author">Nora Jones</div>
+<div class="dt-author">Chen Xihui</div>
 </div>
 </div>
 <div class="thumbnail">
 <img/>
 </div>
 <div class="description">
-<h2>Welcome to BugByte</h2>
-<div class="dt-tags"></div>
-<p>Welcome to our new blog, BugByte. We hope you enjoy 
-reading what we have to say!</p>
+<h2>R Source Code for Bond Analysis</h2>
+<div class="dt-tags">
+<div class="dt-tag">Bonds</div>
+</div>
+<p>This is a highly accurate bond yield and analytics calculator. I would love to unoficially claim this to be the most accurate bond calculator found on the internet, including public R and Python packages, but not until I have completed a few enhancements first.</p>
+</div>
+</a>
+<a href="posts/2020-06-30 Bond Amortisation Constant Yield Method/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Bonds"]}</script>
+<div class="metadata">
+<div class="publishedDate">June 30, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Chen Xihui</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Bond Amortisation Constant Yield Method</h2>
+<div class="dt-tags">
+<div class="dt-tag">Bonds</div>
+</div>
+<p>Designing bond amortisation reports - using formulas instead of schedules.</p>
+</div>
+</a>
+<a href="posts/2020-06-30 Bond Amortisation Examples with R/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Bonds"]}</script>
+<div class="metadata">
+<div class="publishedDate">June 30, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Chen Xihui</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Bond Amortisation Examples with R</h2>
+<div class="dt-tags">
+<div class="dt-tag">Bonds</div>
+</div>
+<p>Build a bond amortisation schedule with R</p>
+</div>
+</a>
+<a href="posts/2020-06-30 Deriving Financial Formulas Using Geometric Sum/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Financial Maths"]}</script>
+<div class="metadata">
+<div class="publishedDate">June 30, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Chen Xihui</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Geometric Sum</h2>
+<div class="dt-tags">
+<div class="dt-tag">Financial Maths</div>
+</div>
+<p>Understanding how most time series formula is derived.</p>
+</div>
+</a>
+<a href="posts/2020-06-30 How Accurate is Excels Yield Function/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Bonds"]}</script>
+<div class="metadata">
+<div class="publishedDate">June 30, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Chen Xihui</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>How Accurate is Excel's YIELD Function</h2>
+<div class="dt-tags">
+<div class="dt-tag">Bonds</div>
+</div>
+<p>"Reverse-engineering" and testing the accuracy of Excel's Yield function.</p>
+</div>
+</a>
+<a href="posts/2020-06-30 Loan Amortisation/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Bonds"]}</script>
+<div class="metadata">
+<div class="publishedDate">June 30, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Chen Xihui</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Loan Amortisation</h2>
+<div class="dt-tags">
+<div class="dt-tag">Bonds</div>
+</div>
+<p>Understanding the loan amortisation schedule helps you to understand bond amortisation.</p>
+</div>
+</a>
+<a href="posts/2020-06-05 Get Flask Up and Running with Anaconda Navigator/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Python"]}</script>
+<div class="metadata">
+<div class="publishedDate">June 5, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Chen Xihui</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Get Flask Up and Running with Anaconda Navigator</h2>
+<div class="dt-tags">
+<div class="dt-tag">Python</div>
+</div>
+<p>Step-by-step guide to install Flask.</p>
+</div>
+</a>
+<a href="posts/2020-06-03 Creating MySQL DB Instance on AWS RDS/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["Database"]}</script>
+<div class="metadata">
+<div class="publishedDate">June 3, 2020</div>
+<div class="dt-authors">
+<div class="dt-author">Chen Xihui</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Creating a MySQL DB Instance on AWS RDS</h2>
+<div class="dt-tags">
+<div class="dt-tag">Database</div>
+</div>
+<p>A short description on setting up MySQL on AWS.</p>
 </div>
 </a>
 </div>
 <div class="posts-sidebar">
 <div><div class="sidebar-section custom">
   <h3>About</h3>
-  This blog explores finance and investment within the R computing environment.
-  <a href="https://shtan06.github.io/mozibite/index.html">mozibite</a> 
+  This blog explores finance and investment data within the R and BI computing environment.
+ <!-- <a href="https://shtan06.github.io/mozibite/index.html">mozibite</a> -->
 </div>
 
 <!--
@@ -2615,22 +2714,22 @@ reading what we have to say!</p>
 <ul>
 <li>
 <a href="#category:Articles">Articles</a>
-<span class="category-count">(3)</span>
+<span class="category-count">(8)</span>
 </li>
 <li>
-<a href="#category:Finance">Finance</a>
+<a href="#category:Bonds">Bonds</a>
+<span class="category-count">(5)</span>
+</li>
+<li>
+<a href="#category:Database">Database</a>
 <span class="category-count">(1)</span>
 </li>
 <li>
-<a href="#category:Fun">Fun</a>
-<span class="category-count">(2)</span>
-</li>
-<li>
-<a href="#category:Investment">Investment</a>
+<a href="#category:Financial_Maths">Financial Maths</a>
 <span class="category-count">(1)</span>
 </li>
 <li>
-<a href="#category:Religion">Religion</a>
+<a href="#category:Python">Python</a>
 <span class="category-count">(1)</span>
 </li>
 </ul>
@@ -2643,7 +2742,7 @@ reading what we have to say!</p>
 <!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>Investment Technology Blog</h1>
+<h1>think|Data</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 
@@ -2651,6 +2750,34 @@ reading what we have to say!</p>
 
 
 <div class="d-article">
+<div class="layout-chunk" data-layout="l-body">
+<style type="text/css">
+
+h1 {
+  width: 220px;
+  font-family: monospace;
+  color: white;
+  border: 2px solid grey;
+  border-radius: 6px;
+  padding: 10px 10px 10px 10px;
+}
+
+.dt-tag, .button {
+  border-color: rgba(0, 220, 220);
+  background-color: rgba(0, 220, 220, 0.1);
+  padding: 0px 0px;
+}
+
+.sidebar-section.custom {
+  font-size: 15px;
+}
+
+.sidebar-section.categories {
+  font-size: 15px;
+}
+
+</style>
+</div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
@@ -2667,8 +2794,8 @@ reading what we have to say!</p>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>© Copyright 2018 [The Distill Template Authors] (https://github.com/distillpub/template/blob/master/AUTHORS) and <a href="https://www.rstudio.com">RStudio, Inc</a>.</p>
-<p>Software licensed under the [Apache License, v2.0] (https://www.apache.org/licenses/LICENSE-2.0).</p>
+<p><strong>© Copyright Chen Xihui 2021 </strong><br />
+Website designed with <a href="https://www.rstudio.com">RStudio, Inc</a>.</p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->
 

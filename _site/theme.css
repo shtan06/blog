@@ -15,22 +15,22 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      35px;
-  --body-size:       1.06rem;
+  --title-size:      40px;
+  --body-size:       1.18rem; /*text size of blog contents*/
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     rgba(92, 92, 92); /*#000000;*/
-  --header-color:    rgba(43, 97, 122);
-  --body-color:      rgba(0, 0, 0, 0.8);
-  --aside-color:     rgba(0, 0, 0, 0.6);
-  --fig-cap-color:   rgba(0, 0, 0, 0.6);
+  --title-color:     rgba(0, 0, 0, 0.8); /*#000000;*/
+  --header-color:    rgba(0, 0, 0, 0.9); /*title colour in listings;*/
+  --body-color:      rgba(0, 0, 0); /*text colour of blog contents*/
+  --aside-color:     rgba(0, 0, 0);
+  --fig-cap-color:   rgba(0, 0, 0); 
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    sans-serif;
   --mono-font:       monospace;
   --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  --navbar-font:     tahoma;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -43,7 +43,7 @@ d-byline {
 
 /*-- ARTICLE TABLE OF CONTENTS --*/
 .d-contents {
-  --heading-size:    18px;
+  --heading-size:    18px;/* */
   --contents-size:   13px;
 }
 
@@ -59,18 +59,18 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --title-size:       15px;
+  --text-color:       rgba(255,255,255);
+  --text-size:        13px;
   --hover-color:      white;
-  --bkgd-color:       rgba(43, 97, 122)/*#0F2E3D*/;
+  --bkgd-color:       rgba(62, 63, 58)/*#0F2E3D*/;
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --text-size:        13px;
   --hover-color:      white;
-  --bkgd-color:       rgba(43, 97, 122)/*#0F2E3D*/;
+  --bkgd-color:       rgba(62, 63, 58)/*#0F2E3D*/;
 }
 
 /*-- Additional custom styles --*/

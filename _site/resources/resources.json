@@ -1,0 +1,397 @@
+[
+  {
+    "path": "resources/2020-12-31 List of Investment Technology and Consulting Companies/",
+    "title": "(Public) List of Investment Technology and Consulting Companies",
+    "description": "To be uploaded soon.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-30",
+    "categories": [
+      "Information"
+    ],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:07:55+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2021-01-30 Insights into Procurement and Implementation Process/",
+    "title": "Insights into Investment Systems Procurement and Implementation Process",
+    "description": "An in-depth analysis on the selection through to successful implementation of front-office and back office systems. Rather than focusing on a generic implementation model, the objective is to highlight early detection of issues, system capabilities, skills transition, implementation risks, resolution and many other concerns unique to procuring new investment systems to ensure investment managers fully benefit from the new technology, information delivery and operational workflow.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-30",
+    "categories": [
+      "Presentation"
+    ],
+    "contents": "\nPrivate and Confidential. For _ to access only.\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:25:07+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-11-23 Constant Yield Amortisation Methodologies/",
+    "title": "(Public) Constant Yield Amortisation: 3 Main Methodologies",
+    "description": "There have been many questions regarding yield-dependent formulas such as duration and amortised book values due to different systems showing different numbers. Software vendors will not share their proprietary algorithm because it potentially raise more questions than answers. I attempt to give you the answer here, and also why most fund managers in Malaysia use the \"least suitable\" method recommended by one of the Big 4.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-23",
+    "categories": [
+      "Presentation"
+    ],
+    "contents": "\nClick here to view slides\n\n\n\n",
+    "preview": "resources/2020-11-23 Constant Yield Amortisation Methodologies/slides/Bond Amortisation Calculation Methods.001.jpeg",
+    "last_modified": "2021-02-01T20:02:49+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-05-10 RTutorial/",
+    "title": "(Public) R Tutorial",
+    "description": "R Tutorial",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-05",
+    "categories": [
+      "Programming"
+    ],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\nSession 1 - Introduction to R\nSession 2 - The R Environment\nSession 3 - Coding - Arithmetic Operators\nSession 4 - Coding - Operators, Vectors, Matrices and Lists\nSession 5 - Coding - Data Frames\nSession 6 - Coding - Loops and Functions\nSession 7 - Coding - Formatting\nSession 8 - Graphs\nSession 9 - Accessing Data\nSession 10 - dplyr\nSession 11 - R Markdown\nSession 12 - Flex Dashboard, htmlwidgets and Shiny\nSession 13 - R Markdown Websites and Github\nSession 14 - Creating Packages\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-01T02:42:48+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-08-01 Blueprint OTC Market Hub/",
+    "title": "Blueprint: OTC Market Hub",
+    "description": "Marketplace for participants who trade OTC.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-01",
+    "categories": [
+      "Blueprint"
+    ],
+    "contents": "\nRequires password.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-01T03:06:48+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-08-01 Blueprint thinkRecon/",
+    "title": "Blueprint: thinkRecon",
+    "description": "thinkRecon is a framework that combines customised automation tools, processes and specialised skills in investment data management to detect and resolve data issues; and provide data quality ratings.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-01",
+    "categories": [
+      "Blueprint"
+    ],
+    "contents": "\nRequires password.\nClick here to view article\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-01T21:32:22+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-10 Data Maintenance Automation,  Accuracy, Timeliness and Self-Check Mechanism/",
+    "title": "Data Maintenance Automation, Accuracy, Timeliness and Self-Check Mechanism",
+    "description": "Case study on data management. This is not about data security, control and performance. Leave that to the IT guys. This topic focuses on reference, pricing, transactions and all other data that populates the investment system databases. It's one of the most complex process within the middle office function because a significant number of BAU issues will originate from here. How do you automate and improve the quality of data that goes into your system? Can you trust your source data? How fast does the team resolve breaks, say between custody record and contractual settlement? Does AI have a role to play here and is it worth the investment?",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-10",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:26:12+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Building an Innovative and Continuously Improving Team/",
+    "title": "[Public] Building an Innovative and Continuously Improving Team",
+    "description": "I had a staff who joined our team without any experience in investment. He was not confident enough to deal with many tasks independently and he was afraid to handle communications with the vendors. The first thing I did was to make sure he learn to be really good at one thing. As I trained him, I made sure he not only asks questions but challenge me and throw ideas around so he doesn't feel his job is just to follow instructions. He was a fast learner and he became the expert in that subject, giving him the confidence to take on other tasks confidently. I've had other staff who were good at their job but stay out of contributing to ideas and innovation. It's subjective, but here are some useful pointers (these are my own opinion).",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nEngage in informal and relaxed conversations with your staff while maintaining professionalism.\nThere are many ways to inspire creativity. But, first things first, cultivate a cheerful environment.\nMotivate. Motivation is an individual thing. With the first point in mind, you learn what motivates the team member and the team as a whole.\nAllow and encourage them to be open and not to be afraid of speaking up.\nGathering everyone for a meeting to come up with ideas there and then does not effectively pick their brains. The best ideas are more likely to come through spontaneously during casual chats and they come in bits and pieces over time for you to put together.\nTrain them well. If possible, personally train them too. It shows respect.\nGuide them from the beginning, or at the very least, give directions. “Throwing them into the sea” does not work for everyone and may demotivate the staff or lead to selfishness in the workplace. You can be more ruthless at a later stage. Genuinely helping people to improve is reciprocated with gratitude and dedication.\nMake sure they don’t get too comfortable and complacent with their responsibilities. Take on different tasks, be all-rounders and stay competitive.\nGive them time to seek new knowledge. Inspire learning and sharing culture. It gives a sense of purpose and value where career and personal development is concerned.\nWhere possible, give them the freedom and flexibility to design their work. It gives them more ownership.\nStop breathing down their necks, a.k.a. micro-managing. Not only does it irritate people but it puts people on defensive mode. Give them enough breathing space, communicate expectations clearly and fairly. Make a clear distinction between expecting your staff to set their standards to “the department’s level” and to “your level”. The latter is egoism and insecurity. You are not trusting that your staff can bring out a better version of your work. It hinders originality. A homogeneous work culture has the opposite effect of the creative environment you want to foster.\nIf a mistake happens, discuss about immediate resolution first, followed by a review to prevent future occurrence. Focusing on who should be blamed does not help to resolve the issue any better.\nPenalising for mistakes create a fear of reporting the issue immediately and openly. Be careful how it is implemented. It is meant for everyone to learn from mistakes and improve, not to punish someone who may just be a victim of a weak control structure.\nThere will always be one in the team who is not interested to improve or contribute much and is probably more interested in office politics. These people drag the team down, they’re not worth your time.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-06T02:12:12+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Critical Risk Areas in the Procurement and Implementation Process/",
+    "title": "Critical Risk Areas in the Procurement and Implementation Process",
+    "description": "It is a misconception that putting a strong project management in place can mitigate project risks. They are not wrong though, provided that the implementation plan is solid in the first place. However, project managers who have little experience in investment systems will end up just tracking project status. Way before signing the contract, you should know what issues to at least expect and establish a resolution plan. The conversion process is a major risk associated with delays. This is where the blame starts. Reports customisation - why leave it until its too late? There are other risks but my point here is, there is a way to manage these risks and don't leave it to the project managers to think about this. They will not get the answers from the vendors and users. Lastly, when you select the \"wrong\" system, you will have to live and deal with on your own for the next few years.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-06T02:34:11+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Dealing with Custodians, Counterparties and Service Partners/",
+    "title": "Dealing with Custodians, Counterparties and Service Partners",
+    "description": "They say no news is good news. Spending less time with your vendors means less issues. That is the ideal situation as you let your vendors handle the issues. After all, they say they understand your business very well. Unfortunately, this is not always the case. What you might encounter: they are not responsive, their answers fail to address your concerns, your request is not in their priority list, enhancements won't be considered until the next major release, change management gives you a quote that is out of your current year budget. Can you control these issues before on-boarding your service providers? Yes you can, by at least 50%. Many organisations sign-up not expecting many issues to crop up later because they do not have experienced specialists to consult them. They assume the SLA is sufficient to protect them. If it's too late, here is how you put your foot down.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:30:55+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Efficient Transition Post Implementation/",
+    "title": "Efficient Transition Post-Implementation",
+    "description": "A look at the re-organisation of resources, new roles and skills. Managers - don't be so rigid with the new process and KPI. It takes time to develop new processes and knowledge. We also explore issues management, conducting service reviews, how to train staff effectively and setting the foundation for continuous improvement.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:30:34+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Failed Trade,  Delivery and Settlement Issues/",
+    "title": "Failed Trade, Delivery and Settlement Issues",
+    "description": "You dread the day when it happens. This triggers the panic button and it tends to disrupt an otherwise resourceful day. For a critical trade, following up with custodians/counterparties and escalating this to the fund managers mean there is a lot of explaining to do. From an asset managers perspective, as long as you manage cash flow projections, track settlement status and ensure instructions to custodians are in order, you are good and the rest is beyond your control. But how do you check very quickly that these are in order? Most probably you will be communicating back and forth with your team, but is there a more effcient solution?",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:30:13+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Implementation Tips/",
+    "title": "Implementation Tips",
+    "description": "I have discussed this before. With some tuning to the timeline and getting the right people for the reports design phase and conversion phase, you will be ready to go live months ahead of schedule. A lot of planning is required but it pays off in the long term.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:03:18+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Investment Operations is More Than Just Technology/",
+    "title": "Investment Operations Is More Than Just Technology",
+    "description": "Let's not get confused between the two. Technology improves the way we work. Operations executes the processes that are designed to attain the desired output. Execution can be performed by either automation or manual work. The ideal state is to shift every process to automation, but even in a fully automated environment, machines can't think for itself and cannot make decisions (for now). As the balance is shifted, roles and relevant skills to manage the processes and execution will change. It is important to distinguish between the two and plan in advance for organisational changes before rushing into buying new systems. Do not think that having new technologies automatically improves your operations.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:29:51+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Investment Operations Talent and Training in Malaysia/",
+    "title": "Investment Operations Talent and Training in Malaysia",
+    "description": "This discussion may be disputed by some, but here are some of my experiences and thoughts on why we can do better to improve our skills and knowledge. We are comfortable being followers and let the consultants and vendors lead the way because we don't want to risk being blamed for any failures.  There is lack of innovation in the local industry. Another is the lack of depth and limited choices of training. Too many securities-related training are taken straight out of the textbook, with a few case studies thrown in. Specialised and niche topics relevant to investment operations are less-likely to be well-received by organisers because their target is the mass-market and hence prefer generic topics. We need the right courses out there to build the right skillset. Financial institutions and regulators do not prioritise training nor give enough focus on investment operations - despite the fact that middle and back office staff make up the majority of people in investment organisations and that they perform or support many critical roles such as compliance, monitoring risks, fraud-detection and delivering information.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [],
+    "contents": "\nFurther reading on my proposals to improve IT and operational skills in the industry. The solution isn’t about providing more training to everyone. There are unique challenges implementing such proposals in Malaysia).\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-02T21:05:55+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Operations and Management The Inverted Pyramid/",
+    "title": "Operations and Management The Inverted Pyramid",
+    "description": "You will probably have heard of the inverted pyramid in an organisation structure. Conceptually, it looks like a great model that creates an effectively-run organisation. But, did some companies interpret the pyramid differently? At the bottom is a proportionately small team of workers doing the \"real\" work, who report to managers who report to more senior managers who report to more senior people. Input and decision-making trickles down one way. Anyone?",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:28:32+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Outsourcing Pros and Cons/",
+    "title": "Outsourcing Pros and Cons",
+    "description": "We take a look what functions you can outsource to external parties. Should you outsource your entire middle office or partially outsource some of the functions and keep the rest in-house? We discuss about different configurations that is most suitable for your type of organisation and requirements. Key areas include operational and cost impact, data ownership and control, governance, security, licensing, cloud computing, etc. to assess whether these initiatives are beneficial or restrictive to your main objectives.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:27:30+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Risk and Compliance/",
+    "title": "[Public] Risk and Compliance",
+    "description": "This is undoubtedly a significant and huge topic on its own so much so that every investment management company spend huge resources just to make sure the message is put across all their employees.  Whatever you call your department or the risk area you are operating within - enterprise risk, operational risk, ethics, AML/Sanctions, IT/cyber risk, investment risk, risk management, etc. - there are fundamentally two things that you are trying to protect: the company's reputation and avoiding substantial losses. These can occur from rogue trades, weak contracts, scandals, corruption, mismanagement, pandemic, ignorance of regulations, market conditions, cross-border culture, etc. It is a huge challenge to even ensure these are communicated effectively to employees, let alone preventing it. My former employer, State Street did an impressive job with managing risks and communicating its importance. In future, I hope to write more about risk or even better, invite contributors who are experts in this field. For me, I can write a lot about operational risk related to systems implementation and trade cycle (settlement, manual process, technical, etc.). So watch this space.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-05T15:26:14+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Should You Build a Data Warehouse/",
+    "title": "Should you build a data warehouse",
+    "description": "This is a large project on its own. To undertake this project, you need to know what you are using it for, why you cannot pull data directly from source and if your source data is clean and understand the flow of data as it integrates from multiple sources. Otherwise, you would have spent a lot of time building, tweaking and maintaining the data warehouse without eventually serving its ipurpose. You are better off writing stored procedures or access from Java/R/Python that can guarantee a much higher retention of data integrity and near real-time data. Most BI tools allow you to connect to multiple databases but I wouldn't advise building non-shareable code into reports. Common concern is latency issue but think about optimising your infrastructure. Most databases are designed to handle large numbers of concurrent access. In many cases, it is the front-end applications that are slow. If there are many external programs, eg. risk/performance requiring only selective data, then it make sense to build a simple data warehouse.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:27:08+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 The Future of Reporting/",
+    "title": "The Future of Reporting",
+    "description": "Preparing reports in Excel and Word, printing paginated reports from Crystal Reports and sending reports manually via emails are some traditional reporting methods that can be phased out but not entirely. We explore the use of BI tools and more advanced programming visualization packages, web-based and mobile applications, and how these can be integrated for effective information delivery within and outside the organisation.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nThese ideas are not new and cannot be regarded as “the future”. Many organisations have been moving into BI over the years but the overall usage is still secondary and supplemental to traditional reports. Learning new skills and viewing reports in a different way are prohibitive factors that explains the slow adoption rate.\nArticle requires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T02:26:41+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Why Hire Specialist Consulting Firms and Not the Big Consulting Firms/",
+    "title": "Why Hire Specialist Investment Consulting Companies and not the Big Consulting Firms",
+    "description": "This article potentially invites a storm. It relates to business process re-engineering right through to investment systems implementation. All types of investment systems - front and back-office, risk, performance, etc. Project management and technology are strengths of of these big consulting firms. The rest - selection, testing, POC, conversion, reporting, investment outsourcing - consider other specialists. Implementation of investment systems is not dependent on the most advanced technology or the best project management practices. Its success depends a lot on factors that require strong domain knowledge which I will discuss in detail.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-03T01:36:44+08:00",
+    "input_file": {}
+  }
+]
