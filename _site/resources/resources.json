@@ -1,7 +1,7 @@
 [
   {
     "path": "resources/2020-12-31 List of Investment Technology and Consulting Companies/",
-    "title": "(Public) List of Investment Technology and Consulting Companies",
+    "title": "List of Investment Technology and Consulting Companies [Public]",
     "description": "To be uploaded soon.",
     "author": [
       {
@@ -15,7 +15,7 @@
     ],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:07:55+08:00",
+    "last_modified": "2021-02-07T00:42:37+08:00",
     "input_file": {}
   },
   {
@@ -32,14 +32,14 @@
     "categories": [
       "Presentation"
     ],
-    "contents": "\nPrivate and Confidential. For _ to access only.\nRequires password\n\n\n\n",
+    "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:25:07+08:00",
+    "last_modified": "2021-02-07T00:43:27+08:00",
     "input_file": {}
   },
   {
     "path": "resources/2020-11-23 Constant Yield Amortisation Methodologies/",
-    "title": "(Public) Constant Yield Amortisation: 3 Main Methodologies",
+    "title": "Constant Yield Amortisation: 3 Main Methodologies [Public]",
     "description": "There have been many questions regarding yield-dependent formulas such as duration and amortised book values due to different systems showing different numbers. Software vendors will not share their proprietary algorithm because it potentially raise more questions than answers. I attempt to give you the answer here, and also why most fund managers in Malaysia use the \"least suitable\" method recommended by one of the Big 4.",
     "author": [
       {
@@ -53,12 +53,12 @@
     ],
     "contents": "\nClick here to view slides\n\n\n\n",
     "preview": "resources/2020-11-23 Constant Yield Amortisation Methodologies/slides/Bond Amortisation Calculation Methods.001.jpeg",
-    "last_modified": "2021-02-01T20:02:49+08:00",
+    "last_modified": "2021-02-07T00:41:33+08:00",
     "input_file": {}
   },
   {
     "path": "resources/2020-05-10 RTutorial/",
-    "title": "(Public) R Tutorial",
+    "title": "R Tutorial [Public]",
     "description": "R Tutorial",
     "author": [
       {
@@ -70,15 +70,15 @@
     "categories": [
       "Programming"
     ],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\nSession 1 - Introduction to R\nSession 2 - The R Environment\nSession 3 - Coding - Arithmetic Operators\nSession 4 - Coding - Operators, Vectors, Matrices and Lists\nSession 5 - Coding - Data Frames\nSession 6 - Coding - Loops and Functions\nSession 7 - Coding - Formatting\nSession 8 - Graphs\nSession 9 - Accessing Data\nSession 10 - dplyr\nSession 11 - R Markdown\nSession 12 - Flex Dashboard, htmlwidgets and Shiny\nSession 13 - R Markdown Websites and Github\nSession 14 - Creating Packages\n\n\n\n",
+    "contents": "\nSession 1 - Introduction to R\nSession 2 - The R Environment\nSession 3 - Coding - Arithmetic Operators\nSession 4 - Coding - Operators, Vectors, Matrices and Lists\nSession 5 - Coding - Data Frames\nSession 6 - Coding - Loops and Functions\nSession 7 - Coding - Formatting\nSession 8 - Graphs\nSession 9 - Accessing Data\nSession 10 - dplyr\nSession 11 - R Markdown\nSession 12 - Flex Dashboard, htmlwidgets and Shiny\nSession 13 - R Markdown Websites and Github\nSession 14 - Creating Packages\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-01T02:42:48+08:00",
+    "last_modified": "2021-02-06T14:33:49+08:00",
     "input_file": {}
   },
   {
     "path": "resources/2020-08-01 Blueprint OTC Market Hub/",
     "title": "Blueprint: OTC Market Hub",
-    "description": "Marketplace for participants who trade OTC.",
+    "description": "Marketplace for participants trading OTC instruments.",
     "author": [
       {
         "name": "Chen Xihui",
@@ -89,9 +89,9 @@
     "categories": [
       "Blueprint"
     ],
-    "contents": "\nRequires password.\n\n\n\n",
+    "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-01T03:06:48+08:00",
+    "last_modified": "2021-02-07T00:40:19+08:00",
     "input_file": {}
   },
   {
@@ -108,9 +108,9 @@
     "categories": [
       "Blueprint"
     ],
-    "contents": "\nRequires password.\nClick here to view article\n\n\n\n",
+    "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-01T21:32:22+08:00",
+    "last_modified": "2021-02-07T00:40:53+08:00",
     "input_file": {}
   },
   {
@@ -129,13 +129,13 @@
     ],
     "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:26:12+08:00",
+    "last_modified": "2021-02-07T00:39:03+08:00",
     "input_file": {}
   },
   {
     "path": "resources/2020-07-01 Building an Innovative and Continuously Improving Team/",
-    "title": "[Public] Building an Innovative and Continuously Improving Team",
-    "description": "I had a staff who joined our team without any experience in investment. He was not confident enough to deal with many tasks independently and he was afraid to handle communications with the vendors. The first thing I did was to make sure he learn to be really good at one thing. As I trained him, I made sure he not only asks questions but challenge me and throw ideas around so he doesn't feel his job is just to follow instructions. He was a fast learner and he became the expert in that subject, giving him the confidence to take on other tasks confidently. I've had other staff who were good at their job but stay out of contributing to ideas and innovation. It's subjective, but here are some useful pointers (these are my own opinion).",
+    "title": "Building an Innovative and Continuously Improving Team [Public]",
+    "description": "I had a staff who joined our team without any experience in investment. He was not confident enough to deal with many tasks independently and he was afraid to handle communications with the vendors. The first thing I did was to make sure he learn to be really good at one thing. As I trained, I made sure he not only asks questions but challenge me and throw ideas around so he doesn't feel his job is just to follow instructions. He was a fast learner and he became the expert in that subject, giving him the confidence to take on other tasks confidently. I've had other staff who were good at their job but stay out of contributing to ideas and innovation. It's subjective, but here are some useful pointers (these are my own opinion).",
     "author": [
       {
         "name": "Chen Xihui",
@@ -146,9 +146,9 @@
     "categories": [
       "Interests"
     ],
-    "contents": "\nEngage in informal and relaxed conversations with your staff while maintaining professionalism.\nThere are many ways to inspire creativity. But, first things first, cultivate a cheerful environment.\nMotivate. Motivation is an individual thing. With the first point in mind, you learn what motivates the team member and the team as a whole.\nAllow and encourage them to be open and not to be afraid of speaking up.\nGathering everyone for a meeting to come up with ideas there and then does not effectively pick their brains. The best ideas are more likely to come through spontaneously during casual chats and they come in bits and pieces over time for you to put together.\nTrain them well. If possible, personally train them too. It shows respect.\nGuide them from the beginning, or at the very least, give directions. “Throwing them into the sea” does not work for everyone and may demotivate the staff or lead to selfishness in the workplace. You can be more ruthless at a later stage. Genuinely helping people to improve is reciprocated with gratitude and dedication.\nMake sure they don’t get too comfortable and complacent with their responsibilities. Take on different tasks, be all-rounders and stay competitive.\nGive them time to seek new knowledge. Inspire learning and sharing culture. It gives a sense of purpose and value where career and personal development is concerned.\nWhere possible, give them the freedom and flexibility to design their work. It gives them more ownership.\nStop breathing down their necks, a.k.a. micro-managing. Not only does it irritate people but it puts people on defensive mode. Give them enough breathing space, communicate expectations clearly and fairly. Make a clear distinction between expecting your staff to set their standards to “the department’s level” and to “your level”. The latter is egoism and insecurity. You are not trusting that your staff can bring out a better version of your work. It hinders originality. A homogeneous work culture has the opposite effect of the creative environment you want to foster.\nIf a mistake happens, discuss about immediate resolution first, followed by a review to prevent future occurrence. Focusing on who should be blamed does not help to resolve the issue any better.\nPenalising for mistakes create a fear of reporting the issue immediately and openly. Be careful how it is implemented. It is meant for everyone to learn from mistakes and improve, not to punish someone who may just be a victim of a weak control structure.\nThere will always be one in the team who is not interested to improve or contribute much and is probably more interested in office politics. These people drag the team down, they’re not worth your time.\n\n\n\n",
+    "contents": "\nThere are many ways to inspire creativity. But, first things first, cultivate a cheerful environment.\nEngage in informal and relaxed conversations with your staff while maintaining professionalism.\nMotivate to build a driven, purposeful and committed team. I’m not talking about powerful speeches and fist-pumping - the adrenaline dies down the next day. Motivation is an individual thing. With the previous point in mind, you learn what motivates the team member and the team as a whole.\nAllow and encourage them to be open and not to be afraid of speaking up.\nGathering everyone for a meeting to come up with ideas there and then does not effectively pick their brains. The best ideas are more likely to come through spontaneously during casual chats and they come in bits and pieces over time for you to put together.\nTrain them well. If possible, personally train them too. It shows respect.\nGuide them from the beginning, or at the very least, give directions. “Throwing them into the sea” does not work for everyone and may demotivate the staff or lead to selfishness in the workplace. You can be more ruthless at a later stage. Genuinely helping people to improve is reciprocated with gratitude and dedication.\nMake sure they don’t get too comfortable and complacent with their responsibilities. Take on different tasks, be all-rounders and stay competitive.\nGive them time to seek new knowledge. Inspire learning and sharing culture. It gives a sense of purpose and value where career and personal development is concerned.\nWhere possible, give them the freedom and flexibility to design their work. It gives them more ownership.\nStop breathing down their necks and spend excessive time on trivial matters, a.k.a. micro-managing. Not only does it irritate people but it puts people on defensive mode. Give them enough breathing space, communicate expectations clearly and fairly. Make a clear distinction between expecting your staff to set their standards to “the department’s level” and to “your level”. The latter is egoism and insecurity. You are not trusting that your staff can bring out a better version of your work. It hinders originality and progress. A homogeneous work culture has the opposite effect of the creative environment you want to foster. Be flexible.\nIf a mistake happens, discuss about immediate resolution first, followed by a review to prevent future occurrence. Focusing on who should be blamed does not help to resolve the issue any better.\nPenalising for mistakes create a fear of reporting the issue immediately and openly. Be careful how it is implemented. It is meant for everyone to learn from mistakes and improve, not to punish someone who may just be a victim of a weak control structure.\nThere will always be one in the team who is not interested to improve or contribute much and is probably more interested in office politics. These people drag the team down, they’re not worth your time.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-06T02:12:12+08:00",
+    "last_modified": "2021-02-06T14:26:07+08:00",
     "input_file": {}
   },
   {
@@ -165,15 +165,15 @@
     "categories": [
       "Interests"
     ],
-    "contents": "\nRequires password\n\n\n\n",
+    "contents": "\nLet’s start from the beginning.\nYou want to make major improvements to your operations and ready to explore other IT options that can better support your goals. Next step is perhaps hire an IT or business process consultant to work with you. Finally, you have made your selection in implementing system ABC.\nLet me explain to you why there is certain disconnection between your planned future state, the technology you initially imagined and the resulting implementation.\nConsider these scenarios:\nDesigning a new process. A project to overhaul the operational process usually ends up with a “re-organisation” that gives the impression that processes has improved or works more in tune with the new organisation structure.\nDesigning a new process. Internal team undertake this task with the business consultant. The consultant asks what the team wants. The team looks at the current state and current issues and decide to base the desired state on these factors. The consultant fine tunes the documentation.\nVendor implementation methodology…\nRead more…\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-06T02:34:11+08:00",
+    "last_modified": "2021-02-06T18:22:49+08:00",
     "input_file": {}
   },
   {
     "path": "resources/2020-07-01 Dealing with Custodians, Counterparties and Service Partners/",
     "title": "Dealing with Custodians, Counterparties and Service Partners",
-    "description": "They say no news is good news. Spending less time with your vendors means less issues. That is the ideal situation as you let your vendors handle the issues. After all, they say they understand your business very well. Unfortunately, this is not always the case. What you might encounter: they are not responsive, their answers fail to address your concerns, your request is not in their priority list, enhancements won't be considered until the next major release, change management gives you a quote that is out of your current year budget. Can you control these issues before on-boarding your service providers? Yes you can, by at least 50%. Many organisations sign-up not expecting many issues to crop up later because they do not have experienced specialists to consult them. They assume the SLA is sufficient to protect them. If it's too late, here is how you put your foot down.",
+    "description": "They say no news is good news. Spending less time with your vendors means less issues. That is the ideal situation as you work seamlessly through the use of their product or services. After all, they say they understand your business very well. Unfortunately, this is not always the case. What you might encounter: they are not responsive, their answers fail to address your concerns, your request is not in their priority list, enhancements won't be considered until the next major release, change management gives you a quote that is out of your current year budget. Can you control these issues before on-boarding your service providers? Yes you can, by at least 50%. Many organisations sign-up not expecting many issues to crop up later because they do not have experienced specialists to consult them. One mistake is to assume the SLA is sufficient to protect them. There will always be gaps and potential issues. Your providers are not going to tell you that because they want you to be aligned to their model and not the other way. Can't blame them since they have many other clients and it is not feasible to allow too much flexibility to fit in to many different requirements.",
     "author": [
       {
         "name": "Chen Xihui",
@@ -184,9 +184,9 @@
     "categories": [
       "Interests"
     ],
-    "contents": "\nRequires password.\n\n\n\n",
+    "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:30:55+08:00",
+    "last_modified": "2021-02-06T16:21:13+08:00",
     "input_file": {}
   },
   {
@@ -205,7 +205,7 @@
     ],
     "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:30:34+08:00",
+    "last_modified": "2021-02-07T00:15:12+08:00",
     "input_file": {}
   },
   {
@@ -224,7 +224,7 @@
     ],
     "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:30:13+08:00",
+    "last_modified": "2021-02-07T00:14:29+08:00",
     "input_file": {}
   },
   {
@@ -249,7 +249,7 @@
   {
     "path": "resources/2020-07-01 Investment Operations is More Than Just Technology/",
     "title": "Investment Operations Is More Than Just Technology",
-    "description": "Let's not get confused between the two. Technology improves the way we work. Operations executes the processes that are designed to attain the desired output. Execution can be performed by either automation or manual work. The ideal state is to shift every process to automation, but even in a fully automated environment, machines can't think for itself and cannot make decisions (for now). As the balance is shifted, roles and relevant skills to manage the processes and execution will change. It is important to distinguish between the two and plan in advance for organisational changes before rushing into buying new systems. Do not think that having new technologies automatically improves your operations.",
+    "description": "Let's not get confused between the two. Technology improves the way we work. Operations executes the processes that are designed to attain the desired output. Execution can be performed by either automation or manual work. The ideal state is to shift every process to automation, but even in a fully automated environment, machines can't think for itself and cannot make decisions (for now). As the balance is shifted, roles and relevant skills to manage the processes and execution will change. It is important to distinguish between the two and plan in advance for operational changes before rushing into buying new systems.",
     "author": [
       {
         "name": "Chen Xihui",
@@ -260,9 +260,9 @@
     "categories": [
       "Interests"
     ],
-    "contents": "\n\n\n\n",
+    "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:29:51+08:00",
+    "last_modified": "2021-02-07T00:19:07+08:00",
     "input_file": {}
   },
   {
@@ -276,10 +276,12 @@
       }
     ],
     "date": "2020-07-01",
-    "categories": [],
-    "contents": "\nFurther reading on my proposals to improve IT and operational skills in the industry. The solution isn’t about providing more training to everyone. There are unique challenges implementing such proposals in Malaysia).\nRequires password\n\n\n\n",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nFurther reading on my proposals to improve IT and operational skills in the industry. The solution isn’t about providing more training to everyone. There are unique challenges implementing such proposals in Malaysia.\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-02T21:05:55+08:00",
+    "last_modified": "2021-02-07T00:20:41+08:00",
     "input_file": {}
   },
   {
@@ -304,43 +306,7 @@
   {
     "path": "resources/2020-07-01 Outsourcing Pros and Cons/",
     "title": "Outsourcing Pros and Cons",
-    "description": "We take a look what functions you can outsource to external parties. Should you outsource your entire middle office or partially outsource some of the functions and keep the rest in-house? We discuss about different configurations that is most suitable for your type of organisation and requirements. Key areas include operational and cost impact, data ownership and control, governance, security, licensing, cloud computing, etc. to assess whether these initiatives are beneficial or restrictive to your main objectives.",
-    "author": [
-      {
-        "name": "Chen Xihui",
-        "url": {}
-      }
-    ],
-    "date": "2020-07-01",
-    "categories": [
-      "Interests"
-    ],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-02-03T02:27:30+08:00",
-    "input_file": {}
-  },
-  {
-    "path": "resources/2020-07-01 Risk and Compliance/",
-    "title": "[Public] Risk and Compliance",
-    "description": "This is undoubtedly a significant and huge topic on its own so much so that every investment management company spend huge resources just to make sure the message is put across all their employees.  Whatever you call your department or the risk area you are operating within - enterprise risk, operational risk, ethics, AML/Sanctions, IT/cyber risk, investment risk, risk management, etc. - there are fundamentally two things that you are trying to protect: the company's reputation and avoiding substantial losses. These can occur from rogue trades, weak contracts, scandals, corruption, mismanagement, pandemic, ignorance of regulations, market conditions, cross-border culture, etc. It is a huge challenge to even ensure these are communicated effectively to employees, let alone preventing it. My former employer, State Street did an impressive job with managing risks and communicating its importance. In future, I hope to write more about risk or even better, invite contributors who are experts in this field. For me, I can write a lot about operational risk related to systems implementation and trade cycle (settlement, manual process, technical, etc.). So watch this space.",
-    "author": [
-      {
-        "name": "Chen Xihui",
-        "url": {}
-      }
-    ],
-    "date": "2020-07-01",
-    "categories": [],
-    "contents": "\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-02-05T15:26:14+08:00",
-    "input_file": {}
-  },
-  {
-    "path": "resources/2020-07-01 Should You Build a Data Warehouse/",
-    "title": "Should you build a data warehouse",
-    "description": "This is a large project on its own. To undertake this project, you need to know what you are using it for, why you cannot pull data directly from source and if your source data is clean and understand the flow of data as it integrates from multiple sources. Otherwise, you would have spent a lot of time building, tweaking and maintaining the data warehouse without eventually serving its ipurpose. You are better off writing stored procedures or access from Java/R/Python that can guarantee a much higher retention of data integrity and near real-time data. Most BI tools allow you to connect to multiple databases but I wouldn't advise building non-shareable code into reports. Common concern is latency issue but think about optimising your infrastructure. Most databases are designed to handle large numbers of concurrent access. In many cases, it is the front-end applications that are slow. If there are many external programs, eg. risk/performance requiring only selective data, then it make sense to build a simple data warehouse.",
+    "description": "We take a look what functions you can outsource to external parties. Should you outsource your entire middle office or partially outsource some of the functions and keep the rest in-house? We discuss about different configurations that is most suitable for your type of organisation and requirements. Key areas include operational and cost impact, data ownership and control, governance, security, licensing, cloud computing, etc. to assess whether these initiatives are beneficial or restrictive to your objectives.",
     "author": [
       {
         "name": "Chen Xihui",
@@ -353,7 +319,45 @@
     ],
     "contents": "\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:27:08+08:00",
+    "last_modified": "2021-02-07T00:23:43+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Risk and Compliance/",
+    "title": "Risk and Compliance [Public]",
+    "description": "This is undoubtedly a significant and huge topic on its own so much so that every investment management company spend huge resources just to make sure the message is put across all their employees.  Whatever you call your department or the risk area you are operating within - enterprise risk, operational risk, ethics, AML/Sanctions, IT/cyber risk, investment risk, risk management, etc. - there are fundamentally two things that you are trying to protect: the company's reputation and avoiding substantial losses. These can occur from rogue trades, weak contracts, scandals, corruption, mismanagement, pandemic, ignorance of regulations, market conditions, cross-border culture, etc. It is a huge challenge to even ensure these are communicated effectively to employees, let alone preventing it. My former employer, State Street did an impressive job with managing risks and communicating its importance. In future, I hope to write more about risk or even better, invite contributors who are experts in this field. For me, I will focus more on operational risk related to systems implementation and trade cycle (settlement, manual process, technical, etc.). So watch this space.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-07T00:27:49+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "resources/2020-07-01 Should You Build a Data Warehouse/",
+    "title": "Should you build a data warehouse",
+    "description": "This is a large project on its own. To undertake this project, you need to know: the purpose for using it, if there is reason why you prefer not to pull data directly from source, if your source data is clean and understand the flow of data as it integrates from multiple sources. Otherwise, you would have spent a lot of time building, cleaning and maintaining the data warehouse without eventually serving its purpose. You are better off writing stored procedures or access from Java/R/Python that can guarantee a much higher retention of data integrity and near real-time data. Most BI tools allow you to connect to multiple databases but I wouldn't advise building non-shareable code into reports. Common concern is latency issue but think about optimising your infrastructure. Most databases are designed to handle large numbers of concurrent access. In many cases, it is the front-end applications that are slow. If there are many external programs, eg. risk/performance requiring only selective data, then it make sense to build a simple data warehouse.",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2020-07-01",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nRequires password\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-07T00:32:21+08:00",
     "input_file": {}
   },
   {
@@ -370,14 +374,14 @@
     "categories": [
       "Interests"
     ],
-    "contents": "\nThese ideas are not new and cannot be regarded as “the future”. Many organisations have been moving into BI over the years but the overall usage is still secondary and supplemental to traditional reports. Learning new skills and viewing reports in a different way are prohibitive factors that explains the slow adoption rate.\nArticle requires password\n\n\n\n",
+    "contents": "\nThese ideas are not new and cannot be regarded as “the future”. Many organisations have been moving into BI over the years but the overall usage is still secondary and supplemental to traditional reports. Learning new skills and viewing reports in a different way are prohibitive factors that explains the slow adoption rate.\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T02:26:41+08:00",
+    "last_modified": "2021-02-07T00:33:00+08:00",
     "input_file": {}
   },
   {
     "path": "resources/2020-07-01 Why Hire Specialist Consulting Firms and Not the Big Consulting Firms/",
-    "title": "Why Hire Specialist Investment Consulting Companies and not the Big Consulting Firms",
+    "title": "Why Hire Specialist Investment Consulting Companies over the Big Consulting Firms",
     "description": "This article potentially invites a storm. It relates to business process re-engineering right through to investment systems implementation. All types of investment systems - front and back-office, risk, performance, etc. Project management and technology are strengths of of these big consulting firms. The rest - selection, testing, POC, conversion, reporting, investment outsourcing - consider other specialists. Implementation of investment systems is not dependent on the most advanced technology or the best project management practices. Its success depends a lot on factors that require strong domain knowledge which I will discuss in detail.",
     "author": [
       {
@@ -389,9 +393,9 @@
     "categories": [
       "Interests"
     ],
-    "contents": "\nRequires password.\n\n\n\n",
+    "contents": "\nI will list out a few specialist consulting firms.\nRequires password\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-03T01:36:44+08:00",
+    "last_modified": "2021-02-07T00:37:45+08:00",
     "input_file": {}
   }
 ]
