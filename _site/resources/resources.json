@@ -1,5 +1,24 @@
 [
   {
+    "path": "resources/2021-02-07-ai-and-settlement-failures/",
+    "title": "AI and Settlement Failures [Public]",
+    "description": "With the implementation of the SDR in 2022, investment firms are looking into AI to help early detection of potential trade fails. See BNY Mellon/Google and Deutsche Bank/Elastic initiatives. My thoughts: don't forget that AI helps to detect and alert potential fails early. It does not mean that it can eliminate them for you. So, you have one year to think about new SOPs when you have AI telling you the minute you execute the trades that they are at risk of failing. Read more below...",
+    "author": [
+      {
+        "name": "Chen Xihui",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-07",
+    "categories": [
+      "Interests"
+    ],
+    "contents": "\nHere’s a simple scenario. A trade sells buys Bond A for USD1m. On the same day, he sells Bond B for USD1m. The traded cash position in the portfolio is USD700k, assuming no other transactions. The trader is then alerted by AI on trade date that there is a high likelihood that Bond B’s cash settlement will be received late in the day. But, you need to have the funds earlier for custody to settle Bond A. What do you do? What different action would you have taken with and without AI? I’d say the difference is: without AI, no action will be taken until settle date when chaos starts. With AI, perhaps the trader can re-allocate at least USD300k from somewhere into short-term instruments and can be easily instructed to move to the account that pays Bond A on settle date. We don’t know if AI sends alert before the trade is executed, but that’s going to be a different issue.\nSo there you go, draw up the scenario now. There’s going to be a lot of scenarios to cover for the new SOP that’s going to impact both front and back office. Worst case, for bonds, or at least in Malaysia, OTC trade allows the trader and counterparty to amend the settle date last minute.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-07T03:22:40+08:00",
+    "input_file": "ai-and-settlement-failures.utf8.md"
+  },
+  {
     "path": "resources/2020-12-31 List of Investment Technology and Consulting Companies/",
     "title": "List of Investment Technology and Consulting Companies [Public]",
     "description": "To be uploaded soon.",
