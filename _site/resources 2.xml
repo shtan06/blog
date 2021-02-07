@@ -7,18 +7,9 @@
     <description>Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>AI and Settlement Failures [Public]</title>
-      <dc:creator>Chen Xihui</dc:creator>
-      <link>https://middle-office.netlify.app/resources/2021-02-07-ai-and-settlement-failures</link>
-      <description>With the implementation of the SDR in 2022, investment firms are looking into AI to help early detection of potential trade fails. See BNY Mellon/Google and Deutsche Bank/Elastic initiatives. My thoughts: don't forget that AI helps to detect and alert potential fails early. It does not mean that it can eliminate them for you. So, you have one year to think about new SOPs when you have AI telling you the minute you execute the trades that they are at risk of failing. Read more below...</description>
-      <category>Interests</category>
-      <guid>https://middle-office.netlify.app/resources/2021-02-07-ai-and-settlement-failures</guid>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>List of Investment Technology and Consulting Companies [Public]</title>
+      <title>(Public) List of Investment Technology and Consulting Companies</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-12-31 List of Investment Technology and Consulting Companies</link>
       <description>To be uploaded soon.</description>
@@ -36,7 +27,7 @@
       <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Constant Yield Amortisation: 3 Main Methodologies [Public]</title>
+      <title>(Public) Constant Yield Amortisation: 3 Main Methodologies</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-11-23 Constant Yield Amortisation Methodologies</link>
       <description>There have been many questions regarding yield-dependent formulas such as duration and amortised book values due to different systems showing different numbers. Software vendors will not share their proprietary algorithm because it potentially raise more questions than answers. I attempt to give you the answer here, and also why most fund managers in Malaysia use the "least suitable" method recommended by one of the Big 4.</description>
@@ -58,7 +49,7 @@
       <title>Blueprint: OTC Market Hub</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-08-01 Blueprint OTC Market Hub</link>
-      <description>Marketplace for participants trading OTC instruments.</description>
+      <description>Marketplace for participants who trade OTC.</description>
       <category>Blueprint</category>
       <guid>https://middle-office.netlify.app/resources/2020-08-01 Blueprint OTC Market Hub</guid>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
@@ -85,7 +76,7 @@
       <title>Building an Innovative and Continuously Improving Team [Public]</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-07-01 Building an Innovative and Continuously Improving Team</link>
-      <description>I had a staff who joined our team without any experience in investment. He was not confident enough to deal with many tasks independently and he was afraid to handle communications with the vendors. The first thing I did was to make sure he learn to be really good at one thing. As I trained, I made sure he not only asks questions but challenge me and throw ideas around so he doesn't feel his job is just to follow instructions. He was a fast learner and he became the expert in that subject, giving him the confidence to take on other tasks confidently. I've had other staff who were good at their job but stayed out of contributing to ideas and innovation. It's subjective, but without being too academic, here are some useful pointers.</description>
+      <description>I had a staff who joined our team without any experience in investment. He was not confident enough to deal with many tasks independently and he was afraid to handle communications with the vendors. The first thing I did was to make sure he learn to be really good at one thing. As I trained, I made sure he not only asks questions but challenge me and throw ideas around so he doesn't feel his job is just to follow instructions. He was a fast learner and he became the expert in that subject, giving him the confidence to take on other tasks confidently. I've had other staff who were good at their job but stay out of contributing to ideas and innovation. It's subjective, but here are some useful pointers (these are my own opinion).</description>
       <category>Interests</category>
       <guid>https://middle-office.netlify.app/resources/2020-07-01 Building an Innovative and Continuously Improving Team</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -139,7 +130,7 @@
       <title>Investment Operations Is More Than Just Technology</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-07-01 Investment Operations is More Than Just Technology</link>
-      <description>Let's not get confused between the two. Technology improves the way we work. Operations executes the processes that are designed to attain the desired output. Execution can be performed by either automation or manual work. The ideal state is to shift every process to automation, but even in a fully automated environment, machines can't think for itself and cannot make decisions (for now). As the balance is shifted, roles and relevant skills to manage the processes and execution will change. It is important to distinguish between the two and plan in advance for operational changes before rushing into buying new systems.</description>
+      <description>Let's not get confused between the two. Technology improves the way we work. Operations executes the processes that are designed to attain the desired output. Execution can be performed by either automation or manual work. The ideal state is to shift every process to automation, but even in a fully automated environment, machines can't think for itself and cannot make decisions (for now). As the balance is shifted, roles and relevant skills to manage the processes and execution will change. It is important to distinguish between the two and plan in advance for organisational changes before rushing into buying new systems. Do not think that having new technologies automatically improves your operations.</description>
       <category>Interests</category>
       <guid>https://middle-office.netlify.app/resources/2020-07-01 Investment Operations is More Than Just Technology</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -149,7 +140,6 @@
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-07-01 Investment Operations Talent and Training in Malaysia</link>
       <description>This discussion may be disputed by some, but here are some of my experiences and thoughts on why we can do better to improve our skills and knowledge. We are comfortable being followers and let the consultants and vendors lead the way because we don't want to risk being blamed for any failures.  There is lack of innovation in the local industry. Another is the lack of depth and limited choices of training. Too many securities-related training are taken straight out of the textbook, with a few case studies thrown in. Specialised and niche topics relevant to investment operations are less-likely to be well-received by organisers because their target is the mass-market and hence prefer generic topics. We need the right courses out there to build the right skillset. Financial institutions and regulators do not prioritise training nor give enough focus on investment operations - despite the fact that middle and back office staff make up the majority of people in investment organisations and that they perform or support many critical roles such as compliance, monitoring risks, fraud-detection and delivering information.</description>
-      <category>Interests</category>
       <guid>https://middle-office.netlify.app/resources/2020-07-01 Investment Operations Talent and Training in Malaysia</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
     </item>
@@ -166,17 +156,16 @@
       <title>Outsourcing Pros and Cons</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-07-01 Outsourcing Pros and Cons</link>
-      <description>We take a look what functions you can outsource to external parties. Should you outsource your entire middle office or partially outsource some of the functions and keep the rest in-house? We discuss about different configurations that is most suitable for your type of organisation and requirements. Key areas include operational and cost impact, data ownership and control, governance, security, licensing, cloud computing, etc. to assess whether these initiatives are beneficial or restrictive to your objectives.</description>
+      <description>We take a look what functions you can outsource to external parties. Should you outsource your entire middle office or partially outsource some of the functions and keep the rest in-house? We discuss about different configurations that is most suitable for your type of organisation and requirements. Key areas include operational and cost impact, data ownership and control, governance, security, licensing, cloud computing, etc. to assess whether these initiatives are beneficial or restrictive to your main objectives.</description>
       <category>Interests</category>
       <guid>https://middle-office.netlify.app/resources/2020-07-01 Outsourcing Pros and Cons</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Risk and Compliance [Public]</title>
+      <title>[Public] Risk and Compliance</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-07-01 Risk and Compliance</link>
-      <description>This is undoubtedly a significant and huge topic on its own so much so that every investment management company spend huge resources just to make sure the message is put across all their employees.  Whatever you call your department or the risk area you are operating within - enterprise risk, operational risk, ethics, AML/Sanctions, IT/cyber risk, investment risk, risk management, etc. - there are fundamentally two things that you are trying to protect: the company's reputation and avoiding substantial losses. These can occur from rogue trades, weak contracts, scandals, corruption, mismanagement, pandemic, ignorance of regulations, market conditions, cross-border culture, etc. It is a huge challenge to even ensure these are communicated effectively to employees, let alone preventing it. My former employer, State Street did an impressive job with managing risks and communicating its importance. In future, I hope to write more about risk or even better, invite contributors who are experts in this field. For me, I will focus more on operational risk related to systems implementation and trade cycle (settlement, manual process, technical, etc.). So watch this space.</description>
-      <category>Interests</category>
+      <description>This is undoubtedly a significant and huge topic on its own so much so that every investment management company spend huge resources just to make sure the message is put across all their employees.  Whatever you call your department or the risk area you are operating within - enterprise risk, operational risk, ethics, AML/Sanctions, IT/cyber risk, investment risk, risk management, etc. - there are fundamentally two things that you are trying to protect: the company's reputation and avoiding substantial losses. These can occur from rogue trades, weak contracts, scandals, corruption, mismanagement, pandemic, ignorance of regulations, market conditions, cross-border culture, etc. It is a huge challenge to even ensure these are communicated effectively to employees, let alone preventing it. My former employer, State Street did an impressive job with managing risks and communicating its importance. In future, I hope to write more about risk or even better, invite contributors who are experts in this field. For me, I can write a lot about operational risk related to systems implementation and trade cycle (settlement, manual process, technical, etc.). So watch this space.</description>
       <guid>https://middle-office.netlify.app/resources/2020-07-01 Risk and Compliance</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
     </item>
@@ -184,7 +173,7 @@
       <title>Should you build a data warehouse</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-07-01 Should You Build a Data Warehouse</link>
-      <description>This is a large project on its own. To undertake this project, you need to know: the purpose for using it, if there is reason why you prefer not to pull data directly from source, if your source data is clean and understand the flow of data as it integrates from multiple sources. Otherwise, you would have spent a lot of time building, cleaning and maintaining the data warehouse without eventually serving its purpose. You are better off writing stored procedures or access from Java/R/Python that can guarantee a much higher retention of data integrity and near real-time data. Most BI tools allow you to connect to multiple databases but I wouldn't advise building non-shareable code into reports. Common concern is latency issue but think about optimising your infrastructure. Most databases are designed to handle large numbers of concurrent access. In many cases, it is the front-end applications that are slow. If there are many external programs, eg. risk/performance requiring only selective data, then it make sense to build a simple data warehouse.</description>
+      <description>This is a large project on its own. To undertake this project, you need to know what you are using it for, why you cannot pull data directly from source and if your source data is clean and understand the flow of data as it integrates from multiple sources. Otherwise, you would have spent a lot of time building, tweaking and maintaining the data warehouse without eventually serving its ipurpose. You are better off writing stored procedures or access from Java/R/Python that can guarantee a much higher retention of data integrity and near real-time data. Most BI tools allow you to connect to multiple databases but I wouldn't advise building non-shareable code into reports. Common concern is latency issue but think about optimising your infrastructure. Most databases are designed to handle large numbers of concurrent access. In many cases, it is the front-end applications that are slow. If there are many external programs, eg. risk/performance requiring only selective data, then it make sense to build a simple data warehouse.</description>
       <category>Interests</category>
       <guid>https://middle-office.netlify.app/resources/2020-07-01 Should You Build a Data Warehouse</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -199,7 +188,7 @@
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Hire Specialist Investment Consulting Companies over the Big Consulting Firms</title>
+      <title>Why Hire Specialist Investment Consulting Companies and not the Big Consulting Firms</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/resources/2020-07-01 Why Hire Specialist Consulting Firms and Not the Big Consulting Firms</link>
       <description>This article potentially invites a storm. It relates to business process re-engineering right through to investment systems implementation. All types of investment systems - front and back-office, risk, performance, etc. Project management and technology are strengths of of these big consulting firms. The rest - selection, testing, POC, conversion, reporting, investment outsourcing - consider other specialists. Implementation of investment systems is not dependent on the most advanced technology or the best project management practices. Its success depends a lot on factors that require strong domain knowledge which I will discuss in detail.</description>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>think blog</title>
+    <link>https://middle-office.netlify.app</link>
+    <atom:link href="https://middle-office.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>R Source Code for Bond Analysis</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-11-25 R Source Code for Bond Analysis</link>
+      <description>This is a highly accurate bond yield and analytics calculator. I would love to unoficially claim this to be the most accurate bond calculator found on the internet, including public R and Python packages, but not until I have completed a few enhancements first.</description>
+      <category>Bonds</category>
+      <guid>https://middle-office.netlify.app/posts/2020-11-25 R Source Code for Bond Analysis</guid>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bond Amortisation Constant Yield Method</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-06-30 Bond Amortisation Constant Yield Method</link>
+      <description>Designing bond amortisation reports - using formulas instead of schedules.</description>
+      <category>Bonds</category>
+      <guid>https://middle-office.netlify.app/posts/2020-06-30 Bond Amortisation Constant Yield Method</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bond Amortisation Examples with R</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-06-30 Bond Amortisation Examples with R</link>
+      <description>Build a bond amortisation schedule with R</description>
+      <category>Bonds</category>
+      <guid>https://middle-office.netlify.app/posts/2020-06-30 Bond Amortisation Examples with R</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geometric Sum</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-06-30 Deriving Financial Formulas Using Geometric Sum</link>
+      <description>Understanding how most time series formula is derived.</description>
+      <category>Financial Maths</category>
+      <guid>https://middle-office.netlify.app/posts/2020-06-30 Deriving Financial Formulas Using Geometric Sum</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Accurate is Excel's YIELD Function</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-06-30 How Accurate is Excels Yield Function</link>
+      <description>"Reverse-engineering" and testing the accuracy of Excel's Yield function.</description>
+      <category>Bonds</category>
+      <guid>https://middle-office.netlify.app/posts/2020-06-30 How Accurate is Excels Yield Function</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loan Amortisation</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-06-30 Loan Amortisation</link>
+      <description>Understanding the loan amortisation schedule helps you to understand bond amortisation.</description>
+      <category>Bonds</category>
+      <guid>https://middle-office.netlify.app/posts/2020-06-30 Loan Amortisation</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Get Flask Up and Running with Anaconda Navigator</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-06-05 Get Flask Up and Running with Anaconda Navigator</link>
+      <description>Step-by-step guide to install Flask.</description>
+      <category>Python</category>
+      <guid>https://middle-office.netlify.app/posts/2020-06-05 Get Flask Up and Running with Anaconda Navigator</guid>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creating a MySQL DB Instance on AWS RDS</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2020-06-03 Creating MySQL DB Instance on AWS RDS</link>
+      <description>A short description on setting up MySQL on AWS.</description>
+      <category>Database</category>
+      <guid>https://middle-office.netlify.app/posts/2020-06-03 Creating MySQL DB Instance on AWS RDS</guid>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
