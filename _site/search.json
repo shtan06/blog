@@ -5,14 +5,14 @@
       "title": "think|Data",
       "author": [],
       "contents": "\n\n\n\nh1 {\n  width: 220px;\n  font-family: monospace;\n  color: white;\n  border: 2px solid grey;\n  border-radius: 6px;\n  padding: 10px 10px 10px 10px;\n}\n\n.dt-tag, .button {\n  border-color: rgba(0, 220, 220);\n  background-color: rgba(0, 220, 220, 0.1);\n  padding: 0px 0px;\n}\n\n.sidebar-section.custom {\n  font-size: 15px;\n}\n\n.sidebar-section.categories {\n  font-size: 15px;\n}\n\n\n\n\n\n",
-      "last_modified": "2021-02-07T18:38:12+08:00"
+      "last_modified": "2021-02-07T21:29:14+08:00"
     },
     {
       "path": "resources.html",
       "title": "think|Advanced",
       "author": [],
       "contents": "\n\n\n\nh1 {\n  width: 300px;\n  font-family: monospace;\n  color: white;\n  border: 2px solid grey;\n  border-radius: 6px;\n  padding: 10px 10px 10px 10px;\n}\n\n.dt-tag, .button {\n  border-color: rgba(0, 220, 220);\n  background-color: rgba(0, 220, 220, 0.1);\n  padding: 0px 0px;\n}\n\n.sidebar-section.custom {\n  font-size: 15px;\n}\n\n.sidebar-section.categories {\n  font-size: 15px;\n}\n\n\n\n\n",
-      "last_modified": "2021-02-07T18:38:13+08:00"
+      "last_modified": "2021-02-07T21:29:16+08:00"
     }
   ],
   "collections": ["posts/posts.json", "resources/resources.json"]
