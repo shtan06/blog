@@ -15,7 +15,7 @@
     ],
     "contents": "\nHere’s a simple scenario. A trader buys Bond A for USD1m. On the same day, he sells Bond B for USD1m. The traded cash position in the portfolio is USD700k, assuming no other transactions. The trader is then alerted by AI on trade date that there is a high likelihood Bond B’s cash settlement will be received late in the day. But, you need to have the funds earlier for custody to settle Bond A. What do you do? What different action would you have taken with and without AI? I’d say the difference is: without AI, since no one anticipated anything, current practice means no action would be taken until settle date when chaos starts. With AI, perhaps the trader can allocate at least USD300k into short-term instruments and on settle date, can be easily instructed to move to the cash account that pays Bond A. Or the trader can buy up to USD700k of Bond A to be safe. We don’t know if AI sends alert before the trade is executed, but that’s going to be a different issue.\nSo there you go, draw up the scenario now. There’s going to be a lot of scenarios to cover for the new SOP that’s going to impact both front and back office. At least in Malaysia, OTC trade allows the trader and counter-party to re-book the trade last minute with amended settle date.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-07T21:25:41+08:00",
+    "last_modified": "2021-02-07T21:27:10+08:00",
     "input_file": "ai-and-settlement-failures.utf8.md"
   },
   {
