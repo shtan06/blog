@@ -91,8 +91,8 @@
     ],
     "contents": "\nSession 1 - Introduction to R\nSession 2 - The R Environment\nSession 3 - Coding - Arithmetic Operators\nSession 4 - Coding - Operators, Vectors, Matrices and Lists\nSession 5 - Coding - Data Frames\nSession 6 - Coding - Loops and Functions\nSession 7 - Coding - Formatting\nSession 8 - Graphs\nSession 9 - Accessing Data\nSession 10 - dplyr\nSession 11 - R Markdown\nSession 12 - Flex Dashboard, htmlwidgets and Shiny\nSession 13 - R Markdown Websites and Github\nSession 14 - Creating Packages\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-09T01:01:50+08:00",
-    "input_file": "RTutorial.utf8.md"
+    "last_modified": "2021-02-09T01:01:56+08:00",
+    "input_file": {}
   },
   {
     "path": "resources/2020-08-01 Blueprint OTC Market Hub/",

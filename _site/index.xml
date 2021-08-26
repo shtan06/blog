@@ -7,12 +7,21 @@
     <description>Blog
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>(Draft) Simple Method to Manually Calculate a Bond's YIELD, PRICE and DURATION That Exactly Matches Excel's and Google Sheet's Functions</title>
+      <dc:creator>Chen Xihui</dc:creator>
+      <link>https://middle-office.netlify.app/posts/2021-08-23 Testing YIELD Functions in Excel</link>
+      <description>This is a follow up to the post "How Accurate is Excel's YIELD function?". It explains the methodologies used to derive yield, price and duration that produce the same results you see when you run the spreadsheets' built-in functions. This is particularly useful for anyone planning to create custom yield functions in VBA, build a replicate dataset in their preferred programming language for data analysis, or perhaps compare, validate and investigate discrepancies among systems.</description>
+      <category>Bonds</category>
+      <guid>https://middle-office.netlify.app/posts/2021-08-23 Testing YIELD Functions in Excel</guid>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>R Source Code for Bond Analysis</title>
       <dc:creator>Chen Xihui</dc:creator>
       <link>https://middle-office.netlify.app/posts/2020-11-25 R Source Code for Bond Analysis</link>
-      <description>This is a highly accurate bond yield and analytics calculator. I would love to unoficially claim this to be the most accurate bond calculator found on the internet, including public R and Python packages, but not until I have completed a few enhancements first.</description>
+      <description>This is a bond analytics calculator.</description>
       <category>Bonds</category>
       <guid>https://middle-office.netlify.app/posts/2020-11-25 R Source Code for Bond Analysis</guid>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
