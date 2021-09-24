@@ -21,10 +21,10 @@ html {
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     rgba(0, 0, 0, 0.8); /*#000000;*/
-  --header-color:    rgba(0, 0, 0, 0.9); /*title colour in listings;*/
+  --title-color:     rgba(80, 106, 106, 1.0); /*#000000;*/
+  --header-color:    rgba(80, 106, 106, 1.0); /*title colour in listings;*/
   --body-color:      rgba(0, 0, 0); /*text colour of blog contents*/
-  --aside-color:     rgba(0, 0, 0);
+  --aside-color:     rgba(66, 135, 245);
   --fig-cap-color:   rgba(0, 0, 0); 
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    sans-serif;
@@ -36,7 +36,7 @@ html {
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.8rem;
-  --heading-color:   rgba(0, 0, 0, 0.5);
+  --heading-color:   rgba(255, 0, 0, 0.5);
   --body-size:       0.8rem;
   --body-color:      rgba(0, 0, 0, 0.8);
 }
@@ -44,7 +44,7 @@ d-byline {
 /*-- ARTICLE TABLE OF CONTENTS --*/
 .d-contents {
   --heading-size:    18px;/* */
-  --contents-size:   13px;
+  --contents-size:   15px;
 }
 
 /*-- ARTICLE APPENDIX --*/
@@ -62,7 +62,7 @@ d-appendix {
   --title-size:       15px;
   --text-color:       rgba(255,255,255);
   --text-size:        13px;
-  --hover-color:      white;
+  --hover-color:      pink;
   --bkgd-color:       rgba(62, 63, 58)/*#0F2E3D*/;
 }
 

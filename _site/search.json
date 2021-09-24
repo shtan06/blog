@@ -4,15 +4,15 @@
       "path": "index.html",
       "title": "think|Data",
       "author": [],
-      "contents": "\n\n\n\nh1 {\n  width: 220px;\n  font-family: monospace;\n  color: white;\n  border: 2px solid grey;\n  border-radius: 6px;\n  padding: 10px 10px 10px 10px;\n}\n\n.dt-tag, .button {\n  border-color: rgba(0, 220, 220);\n  background-color: rgba(0, 220, 220, 0.1);\n  padding: 0px 0px;\n}\n\n.sidebar-section.custom {\n  font-size: 15px;\n}\n\n.sidebar-section.categories {\n  font-size: 15px;\n}\n\n\n\n\n\n",
-      "last_modified": "2021-08-27T04:59:15+08:00"
+      "contents": "\n\n\n\n#  body {background-color: rgba(136, 140, 137);}\n\nh1 {\n  width: 250px;\n  font-family: monospace;\n  background-color: grey;#\n  background-image: linear-gradient(45deg, #2370DB, #570DD7);\n    background-size: 100%;\n    -webkit-background-clip: text;\n    -moz-background-clip: text;\n    -webkit-text-fill-color: transparent; \n    -moz-text-fill-color: transparent;\n  animation: mymove 15s infinite;\n}\n\n@keyframes mymove {\n  from {background-color: grey;}\n    to {background-color: blue;\n      background-image: linear-gradient(45deg, #2370DB, #570DD7);\n    background-size: 100%;\n    -webkit-background-clip: text;\n    -moz-background-clip: text;\n    -webkit-text-fill-color: transparent; \n    -moz-text-fill-color: transparent;}\n    };\n    \n}\n\n#.dt-tag, .button {\n  #border-color: rgba(0, 220, 220);\n  #background-color: none;\n  #border: none;\n  #color: rgba(100, 18, 18, 1);\n  #padding: 1px 1px;}\n\n.posts-sidebar {background-color: rgba(237, 239, 229, 0.1);\n  padding-left: 12px;}\n\n.sidebar-section.custom {font-size: 15px;}\n\n.sidebar-section.categories {font-size: 15px;}\n\n\n\n\n\n",
+      "last_modified": "2021-09-24T21:56:39+08:00"
     },
     {
       "path": "resources.html",
       "title": "think|Advanced",
       "author": [],
-      "contents": "\n\n\n\nh1 {\n  width: 300px;\n  font-family: monospace;\n  color: white;\n  border: 2px solid grey;\n  border-radius: 6px;\n  padding: 10px 10px 10px 10px;\n}\n\n.dt-tag, .button {\n  border-color: rgba(0, 220, 220);\n  background-color: rgba(0, 220, 220, 0.1);\n  padding: 0px 0px;\n}\n\n.sidebar-section.custom {\n  font-size: 15px;\n}\n\n.sidebar-section.categories {\n  font-size: 15px;\n}\n\n\n\n\n",
-      "last_modified": "2021-08-27T04:59:17+08:00"
+      "contents": "\n\n\n\nh1 {\n  width: 300px;\n  font-family: monospace;\n  background-color: grey;#\n  background-image: linear-gradient(45deg, #2370DB, #570DD7);\n    background-size: 100%;\n    -webkit-background-clip: text;\n    -moz-background-clip: text;\n    -webkit-text-fill-color: transparent; \n    -moz-text-fill-color: transparent;\n  animation: mymove 15s infinite;\n}\n\n@keyframes mymove {\n  from {background-color: grey;}\n    to {background-color: blue;\n      background-image: linear-gradient(45deg, #2370DB, #570DD7);\n    background-size: 100%;\n    -webkit-background-clip: text;\n    -moz-background-clip: text;\n    -webkit-text-fill-color: transparent; \n    -moz-text-fill-color: transparent;}\n    };\n    \n}\n\n\n#.dt-tag, .button {\n  # border-color: rgba(0, 220, 220);\n  # background-color: rgba(0, 220, 220, 0.1);\n  # padding: 0px 0px;}\n  \n.posts-sidebar {background-color: rgba(237, 239, 229, 0.1);\n  padding-left: 12px;}\n\n.sidebar-section.custom {font-size: 15px;}\n  \n.sidebar-section.categories {font-size: 15px;}\n\n\n\n\n\n",
+      "last_modified": "2021-09-24T21:56:41+08:00"
     }
   ],
   "collections": ["posts/posts.json", "resources/resources.json"]

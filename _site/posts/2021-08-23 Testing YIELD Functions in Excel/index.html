@@ -94,7 +94,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--  https://schema.org/Article -->
 <meta property="article:published" itemprop="datePublished" content="2021-08-20"/>
 <meta property="article:created" itemprop="dateCreated" content="2021-08-20"/>
-<meta name="article:author" content="Chen Xihui"/>
+<meta name="article:author" content=""/>
 
 <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
 <meta property="og:title" content="think blog: (Draft) Simple Method to Manually Calculate a Bond&#39;s YIELD, PRICE and DURATION That Exactly Matches Excel&#39;s and Google Sheet&#39;s Functions"/>
@@ -114,12 +114,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","categories","canonical_url"]}},"value":[{"type":"character","attributes":{},"value":["(Draft) Simple Method to Manually Calculate a Bond's YIELD, PRICE and DURATION That Exactly Matches Excel's and Google Sheet's Functions"]},{"type":"character","attributes":{},"value":["This is a follow up to the post \"How Accurate is Excel's YIELD function?\". It explains the methodologies used to derive yield, price and duration that produce the same results you see when you run the spreadsheets' built-in functions. This is particularly useful for anyone planning to create custom yield functions in VBA, build a replicate dataset in their preferred programming language for data analysis, or perhaps compare, validate and investigate discrepancies among systems."]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["Chen Xihui"]}]}]},{"type":"character","attributes":{},"value":["08-20-2021"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["Bonds"]},{"type":"character","attributes":{},"value":["https://middle-office.netlify.app/posts/2021-08-23 Testing YIELD Functions in Excel/"]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","categories","canonical_url"]}},"value":[{"type":"character","attributes":{},"value":["(Draft) Simple Method to Manually Calculate a Bond's YIELD, PRICE and DURATION That Exactly Matches Excel's and Google Sheet's Functions"]},{"type":"character","attributes":{},"value":["This is a follow up to the post \"How Accurate is Excel's YIELD function?\". It explains the methodologies used to derive yield, price and duration that produce the same results you see when you run the spreadsheets' built-in functions. This is particularly useful for anyone planning to create custom yield functions in VBA, build a replicate dataset in their preferred programming language for data analysis, or perhaps compare, validate and investigate discrepancies among systems."]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"NULL"}]}]},{"type":"character","attributes":{},"value":["08-20-2021"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","toc","toc_depth","toc_float"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[3]},{"type":"logical","attributes":{},"value":[true]}]}]},{"type":"character","attributes":{},"value":["Bonds","Maths"]},{"type":"character","attributes":{},"value":["https://middle-office.netlify.app/posts/2021-08-23 Testing YIELD Functions in Excel/"]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"NULL"}
+  {"type":"character","attributes":{},"value":["Testing-YIELD-Functions-in-Excel_files/anchor-4.2.2/anchor.min.js","Testing-YIELD-Functions-in-Excel_files/bowser-1.9.3/bowser.min.js","Testing-YIELD-Functions-in-Excel_files/distill-2.2.21/template.v2.js","Testing-YIELD-Functions-in-Excel_files/header-attrs-2.6/header-attrs.js","Testing-YIELD-Functions-in-Excel_files/jquery-1.11.3/jquery.min.js","Testing-YIELD-Functions-in-Excel_files/popper-2.6.0/popper.min.js","Testing-YIELD-Functions-in-Excel_files/tippy-6.2.7/tippy-bundle.umd.min.js","Testing-YIELD-Functions-in-Excel_files/tippy-6.2.7/tippy-light-border.css","Testing-YIELD-Functions-in-Excel_files/tippy-6.2.7/tippy.css","Testing-YIELD-Functions-in-Excel_files/tippy-6.2.7/tippy.umd.min.js","Testing-YIELD-Functions-in-Excel_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2143,10 +2143,10 @@ html {
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
-  --title-color:     rgba(0, 0, 0, 0.8); /*#000000;*/
-  --header-color:    rgba(0, 0, 0, 0.9); /*title colour in listings;*/
+  --title-color:     rgba(80, 106, 106, 1.0); /*#000000;*/
+  --header-color:    rgba(80, 106, 106, 1.0); /*title colour in listings;*/
   --body-color:      rgba(0, 0, 0); /*text colour of blog contents*/
-  --aside-color:     rgba(0, 0, 0);
+  --aside-color:     rgba(66, 135, 245);
   --fig-cap-color:   rgba(0, 0, 0); 
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    sans-serif;
@@ -2158,7 +2158,7 @@ html {
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.8rem;
-  --heading-color:   rgba(0, 0, 0, 0.5);
+  --heading-color:   rgba(255, 0, 0, 0.5);
   --body-size:       0.8rem;
   --body-color:      rgba(0, 0, 0, 0.8);
 }
@@ -2166,7 +2166,7 @@ d-byline {
 /*-- ARTICLE TABLE OF CONTENTS --*/
 .d-contents {
   --heading-size:    18px;/* */
-  --contents-size:   13px;
+  --contents-size:   15px;
 }
 
 /*-- ARTICLE APPENDIX --*/
@@ -2184,7 +2184,7 @@ d-appendix {
   --title-size:       15px;
   --text-color:       rgba(255,255,255);
   --text-size:        13px;
-  --hover-color:      white;
+  --hover-color:      pink;
   --bkgd-color:       rgba(62, 63, 58)/*#0F2E3D*/;
 }
 
@@ -2374,7 +2374,7 @@ d-appendix d-footnote-list a.footnote-backlink {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"(Draft) Simple Method to Manually Calculate a Bond's YIELD, PRICE and DURATION That Exactly Matches Excel's and Google Sheet's Functions","description":"This is a follow up to the post \"How Accurate is Excel's YIELD function?\". It explains the methodologies used to derive yield, price and duration that produce the same results you see when you run the spreadsheets' built-in functions. This is particularly useful for anyone planning to create custom yield functions in VBA, build a replicate dataset in their preferred programming language for data analysis, or perhaps compare, validate and investigate discrepancies among systems.","authors":[{"author":"Chen Xihui","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-08-20T00:00:00.000+00:00","citationText":"Xihui, 2021"}
+{"title":"(Draft) Simple Method to Manually Calculate a Bond's YIELD, PRICE and DURATION That Exactly Matches Excel's and Google Sheet's Functions","description":"This is a follow up to the post \"How Accurate is Excel's YIELD function?\". It explains the methodologies used to derive yield, price and duration that produce the same results you see when you run the spreadsheets' built-in functions. This is particularly useful for anyone planning to create custom yield functions in VBA, build a replicate dataset in their preferred programming language for data analysis, or perhaps compare, validate and investigate discrepancies among systems.","authors":[{"author":"","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-08-20T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2424,19 +2424,32 @@ ABOUT
 <!--radix_placeholder_categories-->
 <div class="dt-tags">
   <a href="../../index.html#category:Bonds" class="dt-tag">Bonds</a>
+  <a href="../../index.html#category:Maths" class="dt-tag">Maths</a>
 </div>
 <!--/radix_placeholder_categories-->
 <p><p>This is a follow up to the post “How Accurate is Excel’s YIELD function?”. It explains the methodologies used to derive yield, price and duration that produce the same results you see when you run the spreadsheets’ built-in functions. This is particularly useful for anyone planning to create custom yield functions in VBA, build a replicate dataset in their preferred programming language for data analysis, or perhaps compare, validate and investigate discrepancies among systems.</p></p>
 </div>
 
 <div class="d-byline">
-  Chen Xihui  
+  
+  true
   
 <br/>08-20-2021
 </div>
 
 <div class="d-article">
-<p><a href="https://1drv.ms/x/s!Aobj1nDZykDYhYhCxfFFnQFXLGjnnQ?e=kTjK1s">Open spreadsheet here</a></p>
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+</ul>
+</nav>
+</div>
+<aside>
+<a href="https://1drv.ms/x/s!Aobj1nDZykDYhYhCxfFFnQFXLGjnnQ?e=kTjK1s">Open spreadsheet here</a>
+</aside>
+<h2 id="introduction">Introduction</h2>
 <p>This post does not teach the basic principles of bond valuation or how to use the YIELD and PRICE functions in Excel. The purpose is to analyze the present value formula found in Microsoft’s documentation <a href="https://support.microsoft.com/en-us/office/price-function-3ea9deac-8dfa-436f-a7c8-17ea02c21b0ahttps://support.microsoft.com/en-us/office/price-function-3ea9deac-8dfa-436f-a7c8-17ea02c21b0a">here</a> and determine what values Excel use in this formula. I will not discuss the other formula that is applied when settlement date falls on the last coupon period as it is quite straightforward once you understand the main formula (I will do a separate post on that formula).</p>
 <p>Excel’s Formula can also be translated as: <span class="math display">\[PRICE = \frac{redemption}{(1+r)^{N-1+f}}+\sum_{k=1}^{N}\frac{coupon}{(1+r)^{k-1+f}} - accruedinterest\]</span> where: r = yield/frequency<br />
 f = fraction<br />

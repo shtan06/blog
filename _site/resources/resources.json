@@ -68,12 +68,13 @@
     ],
     "date": "2020-11-23",
     "categories": [
-      "Presentation"
+      "Presentation",
+      "Interests"
     ],
     "contents": "\nClick here to view slides\n\n\n\n",
     "preview": "resources/2020-11-23 Constant Yield Amortisation Methodologies/slides/Bond Amortisation Calculation Methods.001.jpeg",
-    "last_modified": "2021-02-07T00:41:33+08:00",
-    "input_file": {}
+    "last_modified": "2021-09-24T22:16:57+08:00",
+    "input_file": "constant-yield-amortisation-methodologies.utf8.md"
   },
   {
     "path": "resources/2020-05-10 RTutorial/",

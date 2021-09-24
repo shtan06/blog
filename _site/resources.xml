@@ -41,6 +41,7 @@
       <link>https://middle-office.netlify.app/resources/2020-11-23 Constant Yield Amortisation Methodologies</link>
       <description>There have been many questions regarding yield-dependent formulas such as duration and amortised book values due to different systems showing different numbers. Software vendors will not share their proprietary algorithm because it potentially raise more questions than answers. I attempt to give you the answer here, and also why most fund managers in Malaysia use the "least suitable" method recommended by one of the Big 4.</description>
       <category>Presentation</category>
+      <category>Interests</category>
       <guid>https://middle-office.netlify.app/resources/2020-11-23 Constant Yield Amortisation Methodologies</guid>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://middle-office.netlify.app/resources/2020-11-23 Constant Yield Amortisation Methodologies/slides/Bond Amortisation Calculation Methods.001.jpeg" medium="image" type="image/jpeg"/>
